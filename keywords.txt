@@ -1,0 +1,7 @@
+ARAM_FS_STEPPER KEYWORD1
+#keyword1 denotes classes
+moveStepperCW KEYWORD2
+moveStepperCCW  KEYWORD2
+#keyword 2 denotes functions
+
+#literal1 defines constants
